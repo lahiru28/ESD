@@ -4,5 +4,7 @@ Keer
 Pasta
 Chicken Fried
 
+Beans
+Pizza
 
 Thank you 
